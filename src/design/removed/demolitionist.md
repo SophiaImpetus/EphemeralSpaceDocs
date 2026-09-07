@@ -1,6 +1,6 @@
 # Demolitionist
 
-{{#template ../../templates/removed-implemented.md reason="Highly destructive and impactful in a way that doesn't actually benefit the organization as a whole. Being limited to only bombs creates this awkward middle-point where they both suck at any kind of assassination attempts while also not being able to pursue minor objectives competently. Creating huge explosions also just causes structural damage and disrupts power, often blocking traitors from actually doing objectives."}}
+{{#template ../../templates/removed-implemented.md reason="Never actually played anything like the intended traitor-jester role it was meant to fill, leaving it with just the bombs, which were highly destructive and impactful in a way that didn't actually benefit the organization as a whole. Being limited to only bombs created this awkward middle-point where they both suck at any kind of assassination attempts while also not being able to pursue minor objectives competently. Creating huge explosions also just causes structural damage and disrupts power, often blocking traitors from actually doing objectives. Even with the syndicate bomb they later received, it was almost never useful and they usually died before they got a chance to even use it."}}
 
 > **Name:** Demolitionist
 >
