@@ -1,6 +1,6 @@
 # Clown
 
-{{#template ../../../templates/partially-implemented.md}}
+{{#template ../../templates/partially-implemented.md}}
 
 The clown is a force of chaos with mysterious abilities beyond what is typically possible in the universe. Using their powers, they have access to a seemingly endless supply of commedic props which have uncanny effects in the world around them.
 The Clown Locker includes, but not exclusively, the following items:
