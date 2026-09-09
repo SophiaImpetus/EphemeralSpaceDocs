@@ -12,12 +12,12 @@ The Clown Locker includes, but not exclusively, the following items:
 
 Every 5 minutes, the clown can pull an previously nonexistent item out of their sleeves, ass, or other dubious storage location, using their Procure Prop ability.
 Activating it offers one of three item choices. The clown picks one, and manifests it into being.
-All clown items are single use only, and disappear from reality once used, but can be stockpiled by the clown until the right moment to use them.
+All clown items are single use only, and disappear from reality once used, but can be held by the clown until the right moment to use them.
 These choices are from the following list:
 - Cream Pie, which can be thrown to trip someone briefly and cover their face in pie residue.
-- Itching Powder, which can be applied to someone in order to make a random clothing item worn by them itchy and cause them to move more slowly, have longer doafters, slower attacks, and occasionally involuntarily drop a held item to scratch themselves until they remove the affected clothing item.
-- Joy Buzzer, an item applied to any gloves to make you shock the first person you touch or grab, or who touches or grabs you.
+- Joy Buzzer, an item that fits in the gloves slot and makes you shock the first person you touch or grab, or who touches or grabs you.
 - Sticky hand, which can be thrown to steal someone's held item, yanking it from them and putting it in the clown's own hand.
+- Magic Balloon, which createes an inflatable copy of a crew member when used. Click on a crew member in order to 'set' the ballon to copy them (you can set it to make a copy of yourself). This copy floats around aimlessly and if it takes any damage bursts into healium gas.
 - Jester Juice, a mysterious carton of fluid which can be used to refill a fluid container with its original contents. For instance the clown could refill their space lube or glue with this, or fill a fire extinguisher with water.
 - Air horn, which shoves everyone away in a cone where the clown is looking when activated.
 - Reverse Gun, an item which looks like a random arms dealer gun, but shoots the user when used.
