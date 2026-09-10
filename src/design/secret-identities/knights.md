@@ -3,7 +3,7 @@
 {{#template ../../templates/unimplemented.md}}
 
 Knights-Aberrant are a **major organization** that cycle between pure stealth and extremely loud gameplay, forced to create a trail of destruction to succeed while concealing their own involvement with it.
-Rounds with Knights are bound to be loud and energetic. Mechanically all Knights are incentivised to keep the round moving as they're on a timer to push fowards as soon as they're able to do so.
+Rounds with Knights are bound to be loud and energetic. Mechanically all Knights are incentivized to keep the round moving as they're on a timer to push forwards as soon as they're able to do so.
 Like traitors, deduction can be important, but unlike traitors they can more easily take loud and dangerous actions without revealing their identity, if they're able to plan their escape well.
 
 The Knights-Aberrant are travelers from a parallel future who are determined to pillage what remains of the universe after its inevitable end.
@@ -15,15 +15,15 @@ Once they manage this, and have caused enough instability to fray the timeline, 
 They believe that if they succeed in killing enough of their ancestors, they'll finally become untethered from reality and able to continue to live in the past as gods among humanity.
 Their adoption of mythological motifs has some wondering if they really are destined to become figures from mythology, but most people clearly see them as just posers. Really dangerous ones.
 
-Reality isn't happy with this destruction, however. Pushing back against them, if the Knights-Abberant fail to complete a Survival Objective within the window, one of them will be banished back to their original time.
+Reality isn't happy with this destruction, however. Pushing back against them, if the Knights-Aberrant fail to complete a Survival Objective within the window, one of them will be banished back to their original time.
 
 # Aberrancy
 
 Knights blend into the rest of the crew, having snuck on board in the guise of coworkers just before the mission they're on began. With long range communications blocked by the radstorm, and their remaining time in this era ticking down, now is the time to strike.
 Knights don't have any gear stashed away before the mission or anything like that, relying entirely on their psionic abilities to do the work for them.
 Knights all have a unique method of gaining Psionic Charge, with each Knight needing to charge up to five pips in order to enter Aberrant form.
-Once they've charged their body up with enough energy to exert their powers, they can manifest armor, with an animal head motif. The Knights call this animal thieir Crest, and it corresponds to the type of psionic power they wield.
-In this form, they are able to exert their psionic might freely, but this transformation is limited, and when it expires it must be charged up again. It lasts 2 minuites, so make it count.
+Once they've charged their body up with enough energy to exert their powers, they can manifest armor, with an animal head motif. The Knights call this animal their Crest, and it corresponds to the type of psionic power they wield.
+In this form, they are able to exert their psionic might freely, but this transformation is limited, and when it expires it must be charged up again. It lasts 2 minutes, so make it count.
 Armor fully hides the identity of the Knight, allowing them to act with impunity as long as they're not captured or seen transforming.
 Knights will need to manage when they enter Aberrant form, and who witnesses them do so, as out of this form they are no stronger or more capable than any other crew member, and in their Aberrant form they are very loud and obviously threatening.
 
@@ -50,7 +50,7 @@ Each Knight has two individual goals.
 - Each Knight also needs to open an anomaly at a specific location (Requiring entering Aberrant form and completing the Create Anomaly action to open their unique anomaly type).
 
 The Knight Team has the following team goals.
-- All living Knights have completed all indiividual goals.
+- All living Knights have completed all individual goals.
 - Ensure at least four anomalies are open across the station.
 - Steal the Firestone from the Vault, Causticstone from Hazardous Material, Cryostone from Science Containment and Electrostone from Docking Bay. (or wherever they're most fun being mapped for that map)
 
@@ -58,8 +58,8 @@ They can then move onto the last phase.
 - Create a Temporal Anomaly in the core of the AME, and siphon its power to travel back in time once it fully opens, by using the four elemental stones to jumpstart the reaction needed to create a temporal fissure, siphoning the AME to complete it.
 
 
-Overall the Knights-Abberant have an unpredictable road to winning the round. A chaotic crew might end up never forcing the hands of the knights, and an inattentive one could manage to never notice anomalies or missing stone samples.
-This is usually the worst case scenario for the crew. On the flipside, a coordinated crew will still need to prepare to fight the Knights tooth and nail, as they are sure to go down swining when pushed to act.
+Overall the Knights-Aberrant have an unpredictable road to winning the round. A chaotic crew might end up never forcing the hands of the knights, and an inattentive one could manage to never notice anomalies or missing stone samples.
+This is usually the worst case scenario for the crew. On the flipside, a coordinated crew will still need to prepare to fight the Knights tooth and nail, as they are sure to go down swinging when pushed to act.
 The stones, samples mined from asteroids during the science and exploration missions of the vessel, are less singularly trackable than the nuclear disk, nor are they tied to a single job. On the other hand, they are stored in secure locations.
 Stealing them could be the clearest indication someone is a Knight, but they may have other uses to the crew under niche situations too.
 
@@ -87,7 +87,7 @@ This should be reflected in any anomaly created for a given Crest.
 
 # Stones
 
-The four stones are samples mined from the belt around saturn. Each one is itself, slightly anomalous, and they were split up across multiple secure areas in response to anomalous activity present when the stones were brought close to each other.
+The four stones are samples mined from the belt around Saturn. Each one is itself, slightly anomalous, and they were split up across multiple secure areas in response to anomalous activity present when the stones were brought close to each other.
 Holding ont a stone, even inside a container, causes an elemental effect related to the stone to manifest as an aura around the person holding onto it.
 
 # Expected Strategies
@@ -96,7 +96,6 @@ Knights swap from stealth to loud at the flip of a coin, but most Knights will n
 Knights also have to be weary of being seen charging their Crest's power. While some might have a degree of deniability, that suspicion is likely enough for people to consider trying to disrupt you, or be extra suspicious if you make moves towards the stones.
 On the other hand, they have more flexibility with planning how to win. Waiting until required by a survival goal to create an anomaly, or go after a target, can allow stealth to be maintained for a while.
 Treating your allies as rivals might even yield a better outcome by avoiding confrontation with crew members - but expect it to make gathering the stones and keeping enough anomalies alive to end the round much more difficult than it would be together as a team.
-Knights can also be VERY loud. Teaming up to attack areas as a squadreon and deal devastating injuries to the crew there, attempting to weaken them and take control.
+Knights can also be VERY loud. Teaming up to attack areas as a squadron and deal devastating injuries to the crew there, attempting to weaken them and take control.
 Doing this has dual risks though. They're not strong forever, and their Aberrant forms are primarily melee oriented, making crew armed with guns more risky to face head on.
 The presence of any anomalies will tip the crew off very quickly onto the need to secure the stones. Finding them once the crew has their hands on them can be much more difficult than finding a disk that is pinpointed to - but luckily holding a stone causes a visual effect on the crew holding it.
-
