@@ -7,7 +7,7 @@
 >
 > **Organization:** [Knights](../knights.md)
 >
-> **Archetypes:** Jester
+> **Archetypes:** Murderer, Jester
 >
 > **Description:** Absorb the flame, then burn any who threaten you to ashes. Rise from your would be death as a Phoenix.
 >

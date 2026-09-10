@@ -6,7 +6,7 @@
 >
 > **Organization:** [Knights](../knights.md)
 >
-> **Archetypes:** N/A
+> **Archetypes:** Murderer
 >
 > **Description:** Thunder and lightning courses through you, use it to smite your foes.
 >

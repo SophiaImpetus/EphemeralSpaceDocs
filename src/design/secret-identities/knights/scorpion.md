@@ -7,7 +7,7 @@
 >
 > **Organization:** [Knights](../knights.md)
 >
-> **Archetypes:** N/A
+> **Archetypes:** Murderer
 >
 > **Description:** Consume materials to generate your poison sting, then ambush prey when they least expect you.
 >

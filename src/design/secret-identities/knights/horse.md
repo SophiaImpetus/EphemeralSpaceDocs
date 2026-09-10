@@ -6,7 +6,7 @@
 >
 > **Organization:** [Knights](../knights.md)
 >
-> **Archetypes:** N/A
+> **Archetypes:** Murderer
 >
 > **Description:** Dive underneath reality's perception to make your slippery escape after entering your Aberrant form.
 >

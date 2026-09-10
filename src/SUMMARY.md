@@ -131,8 +131,10 @@
 - [Masquerades](design/masquerades.md)
   - [Random (Traitors)](design/masquerades/random_traitors.md)
   - [Traitors](design/masquerades/traitors.md)
+  - [Night of Knights](design/masquerades/knights.md)
   - [Showdown](design/masquerades/showdown.md)
   - [Red Carpet](design/masquerades/red-carpet.md)
+  - [Protect the King](design/masquerades/king.md)
   - [Valentines](design/masquerades/valentines.md)
 ---
 - [Removed Documents](design/removed.md)
