@@ -88,7 +88,7 @@ This should be reflected in any anomaly created for a given Crest.
 # Stones
 
 The four stones are samples mined from the belt around Saturn. Each one is itself, slightly anomalous, and they were split up across multiple secure areas in response to anomalous activity present when the stones were brought close to each other.
-Holding ont a stone, even inside a container, causes an elemental effect related to the stone to manifest as an aura around the person holding onto it.
+Holding ont a stone, even inside a container, causes an elemental effect related to the stone to manifest as an aura around the person/container holding the stone, stacking with each stone held.
 
 # Expected Strategies
 
